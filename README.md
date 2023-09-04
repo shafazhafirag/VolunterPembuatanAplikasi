@@ -6,4 +6,6 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Berikut daftar Volunter:
 
 * Shafa Zhafira Gunvany, [linktr.ee](https://linktr.ee/shafazhafirag).
+* Shawn Mendes, [linktr.ee](https://linktr.ee/shawnmendes)
+
 
